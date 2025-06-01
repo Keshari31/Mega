@@ -2,6 +2,7 @@ Fuzzy inference system of the self-driving car (Mega) to navigate
 through a simulated urban environment – Report  
 
 Mega 
+
 Mega is a self-driving car which is developed to do its driving process without a driver by its own 
 intelligence. Mega is equipped with an intelligent decision-making system powered by a fuzzy inference 
 system. This system enables Mega to navigate seamlessly through a complex and dynamic simulated 
